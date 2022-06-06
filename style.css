@@ -39,21 +39,7 @@ height:100vh;
     background-repeat: no-repeat;
    }
 
-   .sectiom-about{
-    background-image: url("image/beautiful-spa-composition-brown-wall-space-text.jpg");
-    height:100vh;
-    background-position: top;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-.section-3{
-    background-image: url("image/PSDNukJan_(53).jpg");
-    height:100vh;
-    background-position: top;
-    background-size: cover;
-    background-repeat: no-repeat;
-
-}
+   
 .width{
     width:5%;
 }
