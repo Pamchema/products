@@ -1,0 +1,81 @@
+.container-color{
+    background-color: #eee;
+}
+.logo-color{
+    background-color: papayawhip;
+}
+.btn-primary{
+    background-color: rgb(30, 105, 30)!important;
+
+}
+
+.btn{
+    border: 1px solid rgb(30, 105, 30)!important;
+}
+.text-primary{
+    color:rgb(30, 105, 30)!important
+}
+.image{
+    background-image: url("image/leave -women.jpg");
+ min-height:100vh;
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+.testimonial-slider .carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    background-color:rgb(30, 105, 30);
+    border-radius: 100%;
+}
+.testimonial-slider {
+    padding: 10px 0px 40px;
+}
+.back{
+    background-image: url("image/leave -women.jpg");
+    height:500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+
+   .sectiom-about{
+    background-image: url("image/beautiful-spa-composition-brown-wall-space-text.jpg");
+    height:100vh;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.section-3{
+    background-image: url("image/PSDNukJan_(53).jpg");
+    height:100vh;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.width{
+    width:5%;
+}
+.text-color{
+    color:white
+}
+.footer-col{
+    background-color: black;
+    color:white;
+
+}
+.footer-col{
+    border:none;
+}
+footer{
+    background-color: black;
+    opacity: 0.8;
+}
+.opacity{
+    opacity:0.8;
+
+}
+.text-black{
+    color:black;
+}
