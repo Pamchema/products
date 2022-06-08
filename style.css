@@ -15,13 +15,14 @@
 .text-primary{
     color:rgb(30, 105, 30)!important
 }
-.image{
-    background-image: url("image/leave -women.jpg");
-height:100vh;
- background-position: center;
- background-size: cover;
- background-repeat: no-repeat;
+/* .sec{ */
+    /* background-image: url("image/leave -women.jpg"); */
+/* height:100vh; */
+ /* background-position: right; */
+ /* background-size: cover; */
+ /* background-repeat: no-repeat; */
 }
+
 .testimonial-slider .carousel-indicators button {
     width: 10px;
     height: 10px;
@@ -34,11 +35,17 @@ height:100vh;
 .back{
     background-image: url("image/leave -women.jpg");
     height:500px;
+    background-position: top;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+   }
+.image{
+    background-image: url("image/leave -women.jpg");
+    height:500px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-   }
-
+}
    
 .width{
     width:5%;
@@ -64,7 +71,4 @@ footer{
 }
 .text-black{
     color:black;
-}
-/* body{ */
-    height:auto;
 }
