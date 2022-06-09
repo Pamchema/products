@@ -1,70 +1,63 @@
-.container-color{
-    background-color: #eee;
-}
-.logo-color{
-    background-color: papayawhip;
-}
-.btn-primary{
-    background-color: rgb(30, 105, 30)!important;
-
+.container-color {
+  background-color: #eee;
 }
 
-.btn{
-    border: 1px solid rgb(30, 105, 30)!important;
+.btn-primary {
+  background-color: rgb(30, 105, 30) !important;
 }
-.text-primary{
-    color:rgb(30, 105, 30)!important
+
+.btn {
+  border: 1px solid rgb(30, 105, 30) !important;
+}
+.text-primary {
+  color: rgb(30, 105, 30) !important;
 }
 
 .testimonial-slider .carousel-indicators button {
-    width: 10px;
-    height: 10px;
-    background-color:rgb(30, 105, 30);
-    border-radius: 100%;
+  width: 10px;
+  height: 10px;
+  background-color: rgb(30, 105, 30);
+  border-radius: 100%;
 }
 .testimonial-slider {
-    padding: 10px 0px 40px;
+  padding: 10px 0px 40px;
 }
-.back{
-    background-image: url("image/leave -women.jpg");
-    height:300px;
-    background-position: top;
-    background-size: cover;
-    background-repeat: no-repeat;
-   }
-.image{
-    background-image: url("image/leave -women.jpg");
-    height:500px;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: top;
-    
-    
+.back {
+  background-image: url("image/leave -women.jpg");
+  height: 300px;
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-   
-.width{
-    width:5%;
+.image {
+  background-image: url("image/pngwing.com (1).png");
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
 }
-.text-color{
-    color:white
-}
-.footer-col{
-    background-color: black;
-    color:white;
 
+.width {
+  width: 5%;
 }
-.footer-col{
-    border:none;
+.text-color {
+  color: white;
 }
-footer{
-    background-color: black;
-    opacity: 0.8;
+.footer-col {
+  background-color: black;
+  color: white;
 }
-.opacity{
-    opacity:0.8;
-
+.footer-col {
+  border: none;
 }
-.text-black{
-    color:black;
+footer {
+  background-color: black;
+  opacity: 0.8;
+}
+.opacity {
+  opacity: 0.8;
+}
+.text-black {
+  color: black;
 }
